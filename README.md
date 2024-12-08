@@ -1,7 +1,7 @@
 # 🔒 LetsLockIn
 
 <div align="center">
-  <img src="assets/demo/letslockin.gif" alt="LetsLockIn Demo" width="360px" style="border-radius: 50%"/>
+  <img src="assets/demo/letslockin.gif" alt="LetsLockIn Demo" width="600px" style="border-radius: 50%"/>
   <h3>AI-Powered Focus & Posture Assistant</h3>
   <img src="https://img.shields.io/badge/TensorFlow-2.15.0-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3.11.9-3776AB?style=for-the-badge&logo=python&logoColor=white" />
