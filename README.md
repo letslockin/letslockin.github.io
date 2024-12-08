@@ -23,7 +23,7 @@ Our mission is to create a **healthier and more productive work environment** by
 
 ### ✅ Demo
 
-[![Video](http://img.youtube.com/vi/Rhy8c88UfRQ/1.jpg)](http://www.youtube.com/watch?v=Rhy8c88UfRQ "LetsLockIn_DEMO")
+[![Video](http://img.youtube.com/vi/Rhy8c88UfRQ/2.jpg)](http://www.youtube.com/watch?v=Rhy8c88UfRQ "LetsLockIn_DEMO")
 
 ## 🎯 Features
 
