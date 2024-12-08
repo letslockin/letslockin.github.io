@@ -21,6 +21,14 @@ For more information, explore our official website:
 
 Our mission is to create a **healthier and more productive work environment** by leveraging advanced AI models to **monitor focus, posture, and fatigue** in real time—all while respecting user privacy.
 
+### ✅ Demo
+
+<div align="center">
+  <video width="1920" height="1080" controls>
+    <source src="assets/demo/LetsLockIn-Final_demo.mp4" type="video/mp4">
+  </video>
+</div>
+
 ## 🎯 Features
 
 ### 🧘‍♂️ **Health Benefits**
