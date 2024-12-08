@@ -180,19 +180,20 @@ flowchart TD
 
 ```bash
 # Clone the repository
-git clone https://github.com/letslockin/letslockin.git
+git clone https://github.com/letslockin/letslockin.github.io.git
 
 # Navigate to project directory
-cd letslockin
+cd letslockin.github.io
 
 # Start local server (Python 3)
-python -m http.server 8000
+python -m http.server  (Windows OS)
+python3 -m http.server (MacOS)
 
-# Visit in browser
-open http://localhost:8000
+# Go to your browser and open
+http://localhost:8000
 ```
 
-> ⚠️ **Important Note**: This model must be trained with TensorFlow 2.15.0 as TensorFlow.js conversion is not compatible with TensorFlow 2.17.0
+> ⚠️ **Important Note**: This model must be trained with TensorFlow 2.15.0 or older versions of Tensorflow (2+) as TensorFlow.js conversion is not compatible with newer versions of TensorFlow like version 2.17.0
 
 
 ## 📊 Results & Achievements
