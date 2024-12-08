@@ -25,7 +25,7 @@ Our mission is to create a **healthier and more productive work environment** by
 
 <div align="center">
   <video width="1920" height="1080" controls>
-    <source src="assets/demo/LetsLockIn-Final_demo.mp4" type="video/mp4">
+    <source src="https://youtu.be/Rhy8c88UfRQ" type="video/mp4">
   </video>
 </div>
 
