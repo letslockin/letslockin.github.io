@@ -23,7 +23,10 @@ Our mission is to create a **healthier and more productive work environment** by
 
 ### ✅ Demo
 
-![](assets/demo/demo.mp4)
+
+https://github.com/user-attachments/assets/04aefec1-6a12-4eb3-b877-6a71bc570b65
+
+
 
 ## 🎯 Features
 
