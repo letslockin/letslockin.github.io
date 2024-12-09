@@ -23,7 +23,7 @@ Our mission is to create a **healthier and more productive work environment** by
 
 ### ✅ Demo
 
-![](assets/demo/DEMO.mp4)
+![](assets/demo/demo.mp4)
 
 ## 🎯 Features
 
