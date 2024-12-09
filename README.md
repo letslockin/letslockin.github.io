@@ -25,7 +25,9 @@ Our mission is to create a **healthier and more productive work environment** by
 
 **PLEASE CLICK THE UNMUTE BUTTON AT THE BOTTOM RIGHT CORNER OF THE DEMO VIDEO**
 
-https://github.com/user-attachments/assets/04aefec1-6a12-4eb3-b877-6a71bc570b65
+
+
+https://github.com/user-attachments/assets/0ae5411d-4110-4f22-bf0c-2bfca3470fd1
 
 
 
