@@ -21,6 +21,13 @@ For more information, explore our official website:
 
 Our mission is to create a **healthier and more productive work environment** by leveraging advanced AI models to **monitor focus, posture, and fatigue** in real time—all while respecting user privacy.
 
+### SUPPORTED BROWSERS:
+#### Currently **FireFox** shows the **BEST PERFORMANCE** (no lag) in comparison to other browsers.
+The website shows very laggy performance on **Chrome**.
+My theory is that other browsers like Chrome have some strict rules applied to JavaScript execution.
+#### I am working on improving the website's performance for other browsers.
+
+
 ### ✅ Demo
 
 **PLEASE CLICK THE UNMUTE BUTTON AT THE BOTTOM RIGHT CORNER OF THE DEMO VIDEO**
