@@ -42,24 +42,24 @@ https://github.com/user-attachments/assets/0ae5411d-4110-4f22-bf0c-2bfca3470fd1
 
 ## 🎯 Features
 
-### 🧘‍♂️ **Health Benefits**
-- Encourages better posture to prevent back and neck strain
-- Monitors and alerts signs of fatigue
-- Promotes healthier work-rest balance
-
 ### ⚡ **Productivity Improvements**
+- Forces good postures ==> Makes user lock-in.
+- Significantly boost productivity.
 - Tracks real-time focus and productivity trends
 - Prevents burnout through early detection of **overworking**
 - Increases concentration with actionable feedback
 
+### 🧘‍♂️ **Health Benefits**
+- Encourages better posture to prevent back and neck strain
+- Prevents overworking
+- Promotes healthier work-rest balance
+
 ### 🖥️ **User Experience**
-- Clean, modern interface for seamless interaction
-- Cross-device compatibility with responsive design
-- Intuitive and interactive visualization of productivity metrics
+- Clean, simple, and modern design
 
 ### 🔒 **Privacy-Focused**
 - All processing happens locally on your device
-- No sensitive data leaves your browser, ensuring privacy
+- **No sensitive data leaves your browser, ensuring privacy**
 
 ## 📈 Technical Specifications
 
@@ -191,8 +191,8 @@ flowchart TD
 
 ### Performance Metrics
 - **Validation Accuracy**: 72.852%
-- **Real-time Processing**: 30 FPS, 8 FPS when using other tabs or when the browser is minimized (to save battery life)
-- **Browser Compatibility**: 98%, (Safari is very strict in allowing js to run in the background so even though I set the FPS to 8 FPS, it may drop under 5 FPS. For other browsers, it works decently without significant battery impact)
+- **Real-time Processing**: Up to 60 FPS, but I set a limit of 10 FPS when on the tab, 8 FPS when using other tabs or when the browser is minimized to save battery life. 
+- **Browser Compatibility**: 98% (Safari is very strict in allowing js to run in the background, so even though I set the FPS to 8 FPS, it may drop under 8 FPS. For other browsers, it works decently without significant battery impact)
   
 
 ## 💻 Quick Start
