@@ -25,8 +25,8 @@ Our mission is to create a **healthier and more productive work environment** by
 #### For Windows OS, Chrome, Edge, Firefox, Brave, etc., all are supported.
 #### For MACOS, **Firefox** shows the **BEST PERFORMANCE** (no lag) in comparison to other browsers in MACOS.
 The website shows very laggy performance on **Chrome** on **MACOS**.
-**Although Safari on **MACOS** also has a very good performance, it shows poor performance when the Safari window is minimized.
-My theory is that other browsers, like Chrome, have some strict rules for JavaScript execution.
+**Although Safari on **MACOS** also has a very good performance, it shows poor performance when the Safari window is minimized.**
+
 #### I am working on improving the website's performance for other browsers.
 
 
