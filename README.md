@@ -15,7 +15,7 @@
 
 Welcome to **LetsLockIn**. This website is **a GREAT tool** for the ones who want to lock-in and focus on their work.
 
-**If you find this interesting, you are in the right place.** 
+**If you are seeking a tool that helps you focus, you are in the right place.** 
 
 **Now, Let's Lock In!**
 
