@@ -29,13 +29,9 @@ For more information, explore our official website:
 Our mission is to create a **healthier and more productive work environment** by leveraging advanced AI models to **monitor focus, posture, and fatigue** in real time—all while respecting user privacy.
 
 ## ❗️❗️❗️⛔️ SUPPORTED BROWSERS:
-#### For Windows OS, Chrome, Edge, Firefox, Brave, etc., all are supported.
-#### For MACOS, **Firefox** shows the **BEST PERFORMANCE** (no lag) compared to other MACOS browsers.
-- The website shows very laggy performance on **CHROME** on **MACOS**.
-
+#### For Windows OS, common browsers are supported (except Thorium).
+#### For MACOS, common browsers are supported (except Thorium).
 - **Although Safari on **MACOS** also has a very good performance, it shows poor performance when the Safari window is minimized.**
-
-#### I am working on improving the website's performance for other browsers.
 
 
 ### ✅ Demo
