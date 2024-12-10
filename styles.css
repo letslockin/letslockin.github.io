@@ -760,7 +760,7 @@ footer {
         justify-content: center;
     }
 }
-* device orientation */
+/* device orientation */
 @media (max-height: 600px) and (orientation: landscape) {
     .hero {
         padding-top: 100px;
