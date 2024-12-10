@@ -13,7 +13,9 @@
 
 ## 🌟 Overview
 
-Welcome to **LetsLockIn**. This website is a GREAT tool for the ones who want to lock-in and focus on their work. If you find this interesting, you are in the right place. Now, Lets Lock In!
+Welcome to **LetsLockIn**. This website is **a GREAT tool** for the ones who want to lock-in and focus on their work.
+
+If you find this interesting, you are in the right place. **Now, Lets Lock In!**
 
 
 ### 🚀 Visit Our Website  
