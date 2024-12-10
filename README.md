@@ -22,16 +22,17 @@ For more information, explore our official website:
 Our mission is to create a **healthier and more productive work environment** by leveraging advanced AI models to **monitor focus, posture, and fatigue** in real time—all while respecting user privacy.
 
 ## ❗️❗️❗️⛔️ SUPPORTED BROWSERS:
-#### Currently **FireFox** shows the **BEST PERFORMANCE** (no lag) in comparison to other browsers.
-The website shows very laggy performance on **Chrome**.
-My theory is that other browsers like Chrome have some strict rules applied to JavaScript execution.
+#### For Windows OS, Chrome, Edge, Firefox, Brave, etc., all are supported.
+#### For MACOS, **Firefox** shows the **BEST PERFORMANCE** (no lag) in comparison to other browsers in MACOS.
+The website shows very laggy performance on **Chrome** on **MACOS**.
+**Although Safari on **MACOS** also has a very good performance, it shows poor performance when the Safari window is minimized.
+My theory is that other browsers, like Chrome, have some strict rules for JavaScript execution.
 #### I am working on improving the website's performance for other browsers.
 
 
 ### ✅ Demo
 
 **PLEASE CLICK THE UNMUTE BUTTON AT THE BOTTOM RIGHT CORNER OF THE DEMO VIDEO**
-
 
 
 https://github.com/user-attachments/assets/0ae5411d-4110-4f22-bf0c-2bfca3470fd1
