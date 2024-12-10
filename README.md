@@ -13,11 +13,14 @@
 
 ## 🌟 Overview
 
-Welcome to **LetsLockIn**, the ultimate productivity and wellness application that integrates **real-time focus monitoring** with **AI-powered insights**. Designed for the modern workplace, it promotes healthier work habits and maximizes productivity by offering **non-intrusive monitoring**, privacy-focused design, and actionable feedback.
+Welcome to **LetsLockIn**. This website is a GREAT tool for the ones who want to lock-in and focus on their work. If you find this interesting, you are in the right place. Now, Lets Lock In!
+
 
 ### 🚀 Visit Our Website  
 For more information, explore our official website:  
 [**letslockin.dev**](https://www.letslockin.dev)
+
+- Scroll down for **features**
 
 Our mission is to create a **healthier and more productive work environment** by leveraging advanced AI models to **monitor focus, posture, and fatigue** in real time—all while respecting user privacy.
 
