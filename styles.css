@@ -395,6 +395,18 @@ nav {
     overflow: hidden;
 }
 
+#demo-info-text {
+    text-align: center;
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 1rem;
+    display: block;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.5;
+}
+
 #output-canvas {
     position: absolute;
     top: 0;

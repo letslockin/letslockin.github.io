@@ -1063,6 +1063,22 @@ function restoreGradientAnimations() {
     techDescriptions.forEach(description => description.style.animation = '');
 }
 
+// show demo warning text
+function showDemoInfoText() {
+    const demoInfoText = document.getElementById('demo-info-text');
+    if (demoInfoText) {
+        demoInfoText.style.display = 'block';
+    }
+}
+
+// hide the demo warning text
+function hideDemoInfoText() {
+    const demoInfoText = document.getElementById('demo-info-text');
+    if (demoInfoText) {
+        demoInfoText.style.display = 'none';
+    }
+}
+
 // Initialize everything when the page loads
 document.addEventListener('DOMContentLoaded', async () => {
     try {
@@ -1101,10 +1117,12 @@ document.addEventListener('DOMContentLoaded', async () => {
                 try {
                     clearParticleSystem(particleSystem);
                     clearGradientAnimations();
+                    showDemoInfoText();
                     await detector.init();
                     demoContainer.classList.add('active');
                     startDemoBtn.style.display = 'none';
                     stopDemoBtn.style.display = 'inline-flex';
+                    hideDemoInfoText();
                 } catch (error) {
                     console.error('Failed to start demo:', error);
                     alert('Failed to start demo. Please ensure camera access is allowed.');
@@ -1128,6 +1146,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
                 restoreParticleSystem(particleSystem);
                 restoreGradientAnimations();
+                showDemoInfoText();
             });
         }
 
