@@ -23,9 +23,10 @@ Our mission is to create a **healthier and more productive work environment** by
 
 ## ❗️❗️❗️⛔️ SUPPORTED BROWSERS:
 #### For Windows OS, Chrome, Edge, Firefox, Brave, etc., all are supported.
-#### For MACOS, **Firefox** shows the **BEST PERFORMANCE** (no lag) in comparison to other browsers in MACOS.
-The website shows very laggy performance on **Chrome** on **MACOS**.
-**Although Safari on **MACOS** also has a very good performance, it shows poor performance when the Safari window is minimized.**
+#### For MACOS, **Firefox** shows the **BEST PERFORMANCE** (no lag) compared to other MACOS browsers.
+- The website shows very laggy performance on **CHROME** on **MACOS**.
+
+- **Although Safari on **MACOS** also has a very good performance, it shows poor performance when the Safari window is minimized.**
 
 #### I am working on improving the website's performance for other browsers.
 
