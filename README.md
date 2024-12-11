@@ -29,14 +29,15 @@ For more information, explore our official website:
 Our mission is to create a **healthier and more productive work environment** by leveraging advanced AI models to **monitor focus, posture, and fatigue** in real time—all while respecting user privacy.
 
 ## ❗️❗️❗️⛔️ SUPPORTED BROWSERS:
-#### For Windows OS, common browsers are supported (except Thorium).
-#### For MACOS, common browsers are supported (except Thorium).
-- **Although Safari on **MACOS** also has a very good performance, it shows poor performance when the Safari window is minimized.**
+#### ALL BROWSERS ARE SUPPORTED.
+- Not compatible with old versions of Chromium-based browsers (Chrome, Edge, etc.).
+- Only compatible with the latest versions.
 
 
 ### ✅ Demo
 
-**PLEASE CLICK THE UNMUTE BUTTON AT THE BOTTOM RIGHT CORNER OF THE DEMO VIDEO**
+**PLEASE CLICK THE UNMUTE BUTTON AT THE BOTTOM RIGHT CORNER OF THE DEMO VIDEO.**
+- Reload the page if the video does not show up.
 
 
 https://github.com/user-attachments/assets/0ae5411d-4110-4f22-bf0c-2bfca3470fd1
